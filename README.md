@@ -62,7 +62,7 @@ You can view below images that directly come from the notebook:
 --------------
 Conclusion
 
-The Email Spam Detection system effectively classifies emails with high accuracy using Naive Bayes and TF-IDF. Future work can explore deep learning models for better performance and real-time email filtering.
+The Email Spam Detection system effectively classifies emails with high accuracy using Naive Bayes and TF-IDF. Future work can explore deep learning models for better performance and real-time email filtering..
 
 
 
